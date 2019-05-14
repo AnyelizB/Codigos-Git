@@ -6,3 +6,7 @@ NOTA: Si es windows es recomendable hacer uso de la consola git bash que tambien
 git config --global user.name "nombre"
 git config --global user.email correo@et.com
 
+
+//PARA VERIFICAR NUESTRO GIT : CHEQUEAMOS QUE APAREZCAN NUESTRAS CONFIGURACIONES DE GIT COMO EL CORREO Y EL EL USER NAME //
+git config --list
+
