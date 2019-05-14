@@ -1,1 +1,8 @@
-<h2>Codigos Git</h2>
+INICIOS DE GIT
+
+Una realizada la instalacion de git desde la página oficial, en la terminal colocamos:
+NOTA: Si es windows es recomendable hacer uso de la consola git bash que tambien puede ser descargada desde la pagina oficial de git.
+
+git config --global user.name "nombre"
+git config --global user.email correo@et.com
+
